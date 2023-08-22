@@ -14,10 +14,10 @@
 # 部品
 micro:bit V2 1台  
 USBバッテリー 1台  
-micro:bit ワークショップモジュール 1台  
+[micro:bit用ワークショップモジュール](https://www.switch-science.com/products/5489) 1台  
 LEGOテクニック歯車（大） 2個  
 フレーム用LEGOテクニック 適量  
-GeekServo 1台  
+[GeekServo 9G Servo-Gray](https://www.switch-science.com/products/6811) 1台  
 3Dプリンタパーツ 一式  
 φ1しんちゅう線10cm  
 
