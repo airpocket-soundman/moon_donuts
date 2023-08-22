@@ -21,6 +21,9 @@ GeekServo 1台
 3Dプリンタパーツ 一式  
 φ1しんちゅう線10cm  
 
+# 3Dプリンターパーツ
+準備中
+
 # プログラム
 開発は[micropython](https://python.microbit.org/v/3/)で行いました。
 [/src](https://github.com/airpocket-soundman/moon_donuts/tree/main/src)に保存している「月齢ドーナツ_02.hex」をダウンロードするか、以下のコードを打ち込んで書き込むと動作します。
