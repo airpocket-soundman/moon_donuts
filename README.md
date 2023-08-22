@@ -1,8 +1,8 @@
 # moon_donuts
 月齢ドーナツは、ミニドーナツに指定した月齢の形のデコレーションを施すための装置です。
 
-[!['月齢ドーナツ']('https://github.com/airpocket-soundman/moon_donuts/blob/main/image/thumbnail.png')]('https://www.youtube.com/watch?v=IT8nSHDabr0')
-
+[![月齢ドーナツ](https://github.com/airpocket-soundman/moon_donuts/blob/main/image/thumbnail.png)](https://www.youtube.com/watch?v=IT8nSHDabr0)
+[![alt設定](http://img.youtube.com/vi/{video-id}/0.jpg)](https://www.youtube.com/watch?v={video-id})
 https://www.youtube.com/watch?v=IT8nSHDabr0
 
 # 使い方
