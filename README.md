@@ -3,6 +3,8 @@
 
 [!['月齢ドーナツ']('https://github.com/airpocket-soundman/moon_donuts/blob/main/image/thumbnail.png')]('https://www.youtube.com/watch?v=IT8nSHDabr0')
 
+https://www.youtube.com/watch?v=IT8nSHDabr0
+
 # 使い方
 1.ミニドーナツを皿の上に載せます。
 2.microbitのAボタンとBボタンで、作りたい月齢を選びます。
